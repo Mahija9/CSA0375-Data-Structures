@@ -1,6 +1,6 @@
 # CSA0375-Data-Structures
 1. program to perform Matrix Multiplication 
-    #include<stdio.h>
+     #include<stdio.h>
 int main()
 {
 	int a[2][2],b[2][2],c[2][2];
