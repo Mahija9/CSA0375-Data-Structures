@@ -64,3 +64,41 @@ int main() {
 }
 ![odd or even output](https://user-images.githubusercontent.com/112486504/191183879-c451cf52-d876-467b-8da4-8bcbb0437094.png)
 
+3. program to find Factorial of a given number without using Recursion
+   #include<stdio.h>
+main()
+{
+	int n,fact=1,i;
+	printf("n: ");
+	scanf("%d",&n);
+	for(i=1;i<=n;i++)
+	{
+		fact=fact*i;
+	}
+	printf("%d!= %d",n,fact);
+}
+![factorial output](https://user-images.githubusercontent.com/112486504/191200435-7d94d9f8-623f-464e-88cd-74ca5e44c00c.png)
+
+4. program to find Fibonacci series without using Recursion  
+   #include<stdio.h>
+main()
+{  
+	int a=0,b=1,n,c,count;
+	printf("n: ");
+	scanf("%d",&n);
+	printf("Fibonacci series is\n");
+	printf("%d\n%d\n",a,b);
+	count=2;
+	while(count<n)
+	{
+	
+		c=a+b;
+		a=b;
+		b=c;
+		printf("%d\n",c);
+		count++;
+	}
+}
+![fibonacci series output](https://user-images.githubusercontent.com/112486504/191201295-dddcfaae-8ac0-4d3c-8efd-ad7a8c25523f.png)
+
+
