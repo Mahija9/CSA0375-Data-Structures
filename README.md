@@ -13,13 +13,13 @@
 13. Write a C program to implement Queue operations such as ENQUEUE, DEQUEUE and Display
 14. Write a C program to implement the Tree Traversals (Inorder, Preorder, Postorder)
 15. Write a C program to implement hashing using Linear Probing method
-Write a C program to arrange a series of numbers using Insertion Sort
-Write a C program to arrange a series of numbers using Merge Sort
-Write a C program to arrange a series of numbers using Quick Sort
-Write a C program to implement Heap sort.
-Write a program to perform the following operations: a) Insert an element into a AVL tree. b) Delete an element from a AVL tree. c) Search for a key element in a AVL tree.
-Write a C program to Graph traversal using Breadth First Search
-Write a C program to Graph traversal using Depth First Search
-Implementation of Shortest Path Algorithms using Dijkstra’s Algorithm
-Implementation of Minimum Spanning Tree using Prim’s Algorithm
-Implementation of Minimum Spanning Tree using Kruskal Algorithm
+16. Write a C program to arrange a series of numbers using Insertion Sort
+17. Write a C program to arrange a series of numbers using Merge Sort
+18. Write a C program to arrange a series of numbers using Quick Sort
+19. Write a C program to implement Heap sort.
+20. Write a program to perform the following operations: a) Insert an element into a AVL tree. b) Delete an element from a AVL tree. c) Search for a key element in a AVL tree.
+21. Write a C program to Graph traversal using Breadth First Search
+22. Write a C program to Graph traversal using Depth First Search
+23. Implementation of Shortest Path Algorithms using Dijkstra’s Algorithm
+24. Implementation of Minimum Spanning Tree using Prim’s Algorithm
+25. Implementation of Minimum Spanning Tree using Kruskal Algorithm
